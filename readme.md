@@ -12,9 +12,9 @@ pip install -Ur requirements.txt
 
 Переменные окружения:
 
-**PYSPARK_PYTHON** = .\spark-3.5.1-bin-hadoop3 
-**SPARK_HOME** = .\spark-3.5.1-bin-hadoop3
-**HADOOP_HOME** = .\venv_spark\Scripts\python.exe
+- **PYSPARK_PYTHON** = .\spark-3.5.1-bin-hadoop3 
+- **SPARK_HOME** = .\spark-3.5.1-bin-hadoop3
+- **HADOOP_HOME** = .\venv_spark\Scripts\python.exe
 
 Установка Spark 3.5.1:
 
